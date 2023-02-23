@@ -1,0 +1,15 @@
+/home/d1ffy/development/task07/bin/Debug/net6.0/task07
+/home/d1ffy/development/task07/bin/Debug/net6.0/task07.deps.json
+/home/d1ffy/development/task07/bin/Debug/net6.0/task07.runtimeconfig.json
+/home/d1ffy/development/task07/bin/Debug/net6.0/task07.dll
+/home/d1ffy/development/task07/bin/Debug/net6.0/ref/task07.dll
+/home/d1ffy/development/task07/bin/Debug/net6.0/task07.pdb
+/home/d1ffy/development/task07/obj/Debug/net6.0/task07.csproj.AssemblyReference.cache
+/home/d1ffy/development/task07/obj/Debug/net6.0/task07.GeneratedMSBuildEditorConfig.editorconfig
+/home/d1ffy/development/task07/obj/Debug/net6.0/task07.AssemblyInfoInputs.cache
+/home/d1ffy/development/task07/obj/Debug/net6.0/task07.AssemblyInfo.cs
+/home/d1ffy/development/task07/obj/Debug/net6.0/task07.csproj.CoreCompileInputs.cache
+/home/d1ffy/development/task07/obj/Debug/net6.0/task07.dll
+/home/d1ffy/development/task07/obj/Debug/net6.0/ref/task07.dll
+/home/d1ffy/development/task07/obj/Debug/net6.0/task07.pdb
+/home/d1ffy/development/task07/obj/Debug/net6.0/task07.genruntimeconfig.cache

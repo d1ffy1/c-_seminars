@@ -1,0 +1,15 @@
+/home/d1ffy/development/task05/bin/Debug/net6.0/task05
+/home/d1ffy/development/task05/bin/Debug/net6.0/task05.deps.json
+/home/d1ffy/development/task05/bin/Debug/net6.0/task05.runtimeconfig.json
+/home/d1ffy/development/task05/bin/Debug/net6.0/task05.dll
+/home/d1ffy/development/task05/bin/Debug/net6.0/ref/task05.dll
+/home/d1ffy/development/task05/bin/Debug/net6.0/task05.pdb
+/home/d1ffy/development/task05/obj/Debug/net6.0/task05.csproj.AssemblyReference.cache
+/home/d1ffy/development/task05/obj/Debug/net6.0/task05.GeneratedMSBuildEditorConfig.editorconfig
+/home/d1ffy/development/task05/obj/Debug/net6.0/task05.AssemblyInfoInputs.cache
+/home/d1ffy/development/task05/obj/Debug/net6.0/task05.AssemblyInfo.cs
+/home/d1ffy/development/task05/obj/Debug/net6.0/task05.csproj.CoreCompileInputs.cache
+/home/d1ffy/development/task05/obj/Debug/net6.0/task05.dll
+/home/d1ffy/development/task05/obj/Debug/net6.0/ref/task05.dll
+/home/d1ffy/development/task05/obj/Debug/net6.0/task05.pdb
+/home/d1ffy/development/task05/obj/Debug/net6.0/task05.genruntimeconfig.cache
