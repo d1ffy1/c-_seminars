@@ -1,0 +1,5 @@
+/home/d1ffy/development/c#_seminars/task12/obj/Debug/net6.0/task12.csproj.AssemblyReference.cache
+/home/d1ffy/development/c#_seminars/task12/obj/Debug/net6.0/task12.GeneratedMSBuildEditorConfig.editorconfig
+/home/d1ffy/development/c#_seminars/task12/obj/Debug/net6.0/task12.AssemblyInfoInputs.cache
+/home/d1ffy/development/c#_seminars/task12/obj/Debug/net6.0/task12.AssemblyInfo.cs
+/home/d1ffy/development/c#_seminars/task12/obj/Debug/net6.0/task12.csproj.CoreCompileInputs.cache

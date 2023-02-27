@@ -1,0 +1,15 @@
+/home/d1ffy/development/c#_seminars/task14/obj/Debug/net6.0/task14.csproj.AssemblyReference.cache
+/home/d1ffy/development/c#_seminars/task14/obj/Debug/net6.0/task14.GeneratedMSBuildEditorConfig.editorconfig
+/home/d1ffy/development/c#_seminars/task14/obj/Debug/net6.0/task14.AssemblyInfoInputs.cache
+/home/d1ffy/development/c#_seminars/task14/obj/Debug/net6.0/task14.AssemblyInfo.cs
+/home/d1ffy/development/c#_seminars/task14/obj/Debug/net6.0/task14.csproj.CoreCompileInputs.cache
+/home/d1ffy/development/c#_seminars/task14/bin/Debug/net6.0/task14
+/home/d1ffy/development/c#_seminars/task14/bin/Debug/net6.0/task14.deps.json
+/home/d1ffy/development/c#_seminars/task14/bin/Debug/net6.0/task14.runtimeconfig.json
+/home/d1ffy/development/c#_seminars/task14/bin/Debug/net6.0/task14.dll
+/home/d1ffy/development/c#_seminars/task14/bin/Debug/net6.0/ref/task14.dll
+/home/d1ffy/development/c#_seminars/task14/bin/Debug/net6.0/task14.pdb
+/home/d1ffy/development/c#_seminars/task14/obj/Debug/net6.0/task14.dll
+/home/d1ffy/development/c#_seminars/task14/obj/Debug/net6.0/ref/task14.dll
+/home/d1ffy/development/c#_seminars/task14/obj/Debug/net6.0/task14.pdb
+/home/d1ffy/development/c#_seminars/task14/obj/Debug/net6.0/task14.genruntimeconfig.cache
