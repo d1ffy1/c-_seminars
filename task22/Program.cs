@@ -15,8 +15,6 @@ else
     Console.WriteLine("Число должно быть натуральным!");
 }
 
-
-
 void SqrTable(int num)
 {
     
