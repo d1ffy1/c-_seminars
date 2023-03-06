@@ -6,7 +6,7 @@
 
 Console.Write("Введите пятизначное число: ");
 int number = Convert.ToInt32(Console.ReadLine());
-if(number > 9999 && number <100000)
+if((number > 9999 && number <100000) || (number > -100000 && number < -9999))
 {
 int reverseNumber = Reverse(number);
 bool palindrome = Palindrome(number, reverseNumber);
