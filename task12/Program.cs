@@ -11,9 +11,9 @@ Console.WriteLine("Введите второе число:");
 int secondNumber = Convert.ToInt32(Console.ReadLine());
 bool Multiplicity(int arg1, int arg2)
 {
-    return multiplicity = firstNumber % secondNumber;
+   return arg1 % arg2 == 0;
 }
 
 
 bool multiplicity = Multiplicity(firstNumber, secondNumber) ;
-Console.WriteLine(multiplicity ? "кратно" : "не кратно ");
+Console.WriteLine(multiplicity ? "кратно" : "не кратно");

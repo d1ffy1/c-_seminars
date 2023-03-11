@@ -3,3 +3,13 @@
 /home/d1ffy/development/c#_seminars/task12/obj/Debug/net6.0/task12.AssemblyInfoInputs.cache
 /home/d1ffy/development/c#_seminars/task12/obj/Debug/net6.0/task12.AssemblyInfo.cs
 /home/d1ffy/development/c#_seminars/task12/obj/Debug/net6.0/task12.csproj.CoreCompileInputs.cache
+/home/d1ffy/development/c#_seminars/task12/bin/Debug/net6.0/task12
+/home/d1ffy/development/c#_seminars/task12/bin/Debug/net6.0/task12.deps.json
+/home/d1ffy/development/c#_seminars/task12/bin/Debug/net6.0/task12.runtimeconfig.json
+/home/d1ffy/development/c#_seminars/task12/bin/Debug/net6.0/task12.dll
+/home/d1ffy/development/c#_seminars/task12/bin/Debug/net6.0/ref/task12.dll
+/home/d1ffy/development/c#_seminars/task12/bin/Debug/net6.0/task12.pdb
+/home/d1ffy/development/c#_seminars/task12/obj/Debug/net6.0/task12.dll
+/home/d1ffy/development/c#_seminars/task12/obj/Debug/net6.0/ref/task12.dll
+/home/d1ffy/development/c#_seminars/task12/obj/Debug/net6.0/task12.pdb
+/home/d1ffy/development/c#_seminars/task12/obj/Debug/net6.0/task12.genruntimeconfig.cache
