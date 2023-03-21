@@ -46,19 +46,23 @@ int[,] MultiplyMatrix(int[,] matrix1, int[,] matrix2)
             int sum = 0;
             for (int k = 0; k < matrix1.GetLength(1); k++)
             {
-               sum += matrix1[i,k] * matrix2[k,j];
+                sum += matrix1[i, k] * matrix2[k, j];
             }
-            multip[i,j] = sum;
+            multip[i, j] = sum;
         }
     }
     return multip;
-} 
+}
 
-int[,] array1 = CreateMatrixRndInt(2, 2, 1, 5);
+int[,] array1 = CreateMatrixRndInt(3, 3, 1, 5);
 PrintMatrix(array1);
 Console.WriteLine();
-int[,] array2 = CreateMatrixRndInt(2, 2, 1, 5);
+int[,] array2 = CreateMatrixRndInt(3, 3, 1, 5);
 PrintMatrix(array2);
 Console.WriteLine();
-int[,] multiply = MultiplyMatrix(array1, array2);
-PrintMatrix(multiply);
+if (array1.GetLength(0) != array2.GetLength(1)) Console.WriteLine("Умножение матриц невозможно!");
+else
+{
+    int[,] multiply = MultiplyMatrix(array1, array2);
+    PrintMatrix(multiply);
+}
